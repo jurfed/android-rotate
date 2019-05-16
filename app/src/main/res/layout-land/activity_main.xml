@@ -94,4 +94,15 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent" />
 
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="588dp"
+        android:layout_marginTop="20dp"
+        android:onClick="about"
+        android:text="About"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonChoose" />
+
 </android.support.constraint.ConstraintLayout>

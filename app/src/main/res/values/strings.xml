@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Sherlock</string>
     <string name="who">Кто украл колбасу?</string>
+    <string name="about">aboutaboutaboutaboutaboutaboutaboutaboutaboutabout
+    aboutaboutaboutaboutaboutaboutaboutaboutaboutaboutaboutaboutaboutaboutabout
+    aboutaboutaboutaboutaboutaboutaboutaboutaboutabout
+    aboutaboutaboutaboutaboutaboutaboutaboutaboutabout</string>
 </resources>

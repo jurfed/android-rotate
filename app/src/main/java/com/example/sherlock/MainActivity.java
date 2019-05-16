@@ -112,4 +112,10 @@ public class MainActivity extends AppCompatActivity {
             rotate.setText("портретная");
         }
     }
+
+    public void about(View view) {
+        Intent aboutIntent = new Intent(MainActivity.this, AboutActivity.class);
+        startActivity(aboutIntent);
+
+    }
 }

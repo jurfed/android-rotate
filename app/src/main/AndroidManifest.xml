@@ -21,6 +21,13 @@
             android:name=".SecondActivity"
             android:label="secondActivity"
             />
+
+        <activity
+            android:name=".AboutActivity"
+            android:label="aboutActivity"
+            android:theme="@style/CustomTheme"
+            />
+
     </application>
 
 </manifest>
