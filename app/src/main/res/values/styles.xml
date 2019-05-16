@@ -26,7 +26,14 @@
 
     <style name="CustomTheme" parent="android:Theme.DeviceDefault.Dialog">
         <item name="android:windowBackground">@color/custom_theme_color</item>
-        <item name="android:colorBackground">@color/custom_theme_color</item>
+        <item name="android:colorPrimary">@color/custom_theme_color</item>
+    </style>
+
+    <style name="CustomTheme2" parent="android:Theme.Material">
+        <item name="android:windowBackground">@color/custom_theme_color</item>
+        <item name="android:colorPrimary">@color/primaryColor</item>
+        <item name="android:colorPrimaryDark">@color/primaryColor</item>
+
     </style>
 
 </resources>

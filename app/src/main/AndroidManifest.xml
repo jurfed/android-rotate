@@ -20,6 +20,7 @@
         <activity
             android:name=".SecondActivity"
             android:label="secondActivity"
+            android:theme="@style/CustomTheme2"
             />
 
         <activity
